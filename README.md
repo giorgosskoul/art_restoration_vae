@@ -1,2 +1,2 @@
 # art_restoration_vae
-A Variational Autoencoder for Art Image Restoration
+Variational Autoencoders (VAEs) are deep learning models designed to generate variations of the data they were trained on. The encoder maps the input data to a continuous probabilistic representation in the latent space, enabling new variations to be sampled and reconstructed. In this academic project, me and my team trained a Variational Autoencoder to restore damaged art images.
